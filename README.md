@@ -4,7 +4,7 @@ This project studies direction-of-arrival estimation and beamforming using MUSIC
 
 ## Collaboration
 
-This was a course term project by Alperen Kahraman and Abdulhalim Kiraz. Collaborator credit is preserved here and in the report, while repository filenames use descriptive project names.
+This project was developed with Alperen Kahraman for EE473 coursework.
 
 ## What Is Included
 
@@ -26,6 +26,6 @@ doa_estimation_music_simulations
 
 The helper scripts implement smoothing and simulation variants used by the final experiments.
 
-## Data and Materials Notice
+## Notes
 
-This repository contains source code, selected simulation figures, and the final report prepared for portfolio use. Textbooks, reference PDFs, course prompts, generated logs, and unrelated materials are not included.
+The repository includes the MATLAB source code, selected simulation figures, and the final report. Textbooks, reference PDFs, course prompts, generated logs, and unrelated materials are not included.
