@@ -25,7 +25,3 @@ doa_estimation_music_simulations
 ```
 
 The helper scripts implement smoothing and simulation variants used by the final experiments.
-
-## Notes
-
-The repository includes the MATLAB source code, selected simulation figures, and the final report. Textbooks, reference PDFs, course prompts, generated logs, and unrelated materials are not included.
