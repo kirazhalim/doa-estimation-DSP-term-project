@@ -1,27 +1,25 @@
-# MUSIC DOA Estimation in MATLAB
+# MUSIC DOA Estimation
 
-This project studies direction-of-arrival estimation and beamforming using MUSIC-based MATLAB simulations.
+This repository contains my DSP term project on direction-of-arrival estimation. I worked on MATLAB simulations for MUSIC and conventional beamforming methods.
 
-## Collaboration
+The project includes 5 MATLAB scripts, 6 result figures, and a final report. The main goal was to compare how the methods behave under different cases such as source separation and low SNR.
 
-This project was developed with Alperen Kahraman for EE473 coursework.
+## What I Did
 
-## What Is Included
+- Implemented MUSIC-based DOA estimation simulations in MATLAB.
+- Compared MUSIC with conventional beamforming.
+- Tested single-source, resolution, and low-SNR cases.
+- Added figures from the main simulation results.
+- Prepared the final report with the method and discussion.
 
-- MATLAB scripts in `src/`
-- Selected simulation outputs in `figures/`
-- Final project report: `doa_estimation_music_report.pdf`
+## Report
 
-## What Is Excluded
+The detailed explanation and results are in `doa_estimation_music_report.pdf`.
 
-Textbooks, reference papers, proposal materials, generated MATLAB logs, and unrelated notes are excluded. References should be cited or linked from the report rather than redistributed in the repository.
+## How to Run
 
-## How to Use
-
-Open MATLAB and run the scripts under `src/`. The main project script is:
+Open MATLAB and run the scripts under `src/`. The main script is:
 
 ```matlab
 doa_estimation_music_simulations
 ```
-
-The helper scripts implement smoothing and simulation variants used by the final experiments.
